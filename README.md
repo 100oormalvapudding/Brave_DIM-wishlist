@@ -14,8 +14,13 @@ Falling Guilotine:
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 
 Royal Entry:
+
 dimwishlist:item=2448907086&perks=3796465595,3300816228,2284787283
 
 Frozen Orbit PVP:
 
 dimwishlist:item=3473290087&perks=1392496348,3177308360,588594999,957782887
+
+Riiswalker:
+
+dimwishlist:item=108221785&perks=591790007
