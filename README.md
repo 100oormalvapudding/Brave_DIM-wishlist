@@ -24,3 +24,7 @@ dimwishlist:item=3473290087&perks=1392496348,3177308360,588594999,957782887
 Riiswalker:
 
 dimwishlist:item=108221785&perks=591790007
+
+The Messenger:
+
+dimwishlist:item=3658188704&perks=1168162263,3047969693
